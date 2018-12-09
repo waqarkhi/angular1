@@ -1,0 +1,42 @@
+[
+	{ 
+		"name":"Vertex Web Solutions",
+		"post":"User Interface Developer",
+		"img": "images/exp/vertex.png", 
+		"link":"http://www.vertex.net.pk/", 
+		"starts":"March 2015",
+		"ends":"July 2015"
+	},
+	{ 
+		"name":"Intuit Force", 
+		"post":"Web Developer", 
+		"img": "images/exp/intuit-force.png", 
+		"link":"http://intuitforce.com/", 
+		"starts":"August 2015",
+		"ends":"December 2015" 
+	},
+	{ 
+		"name":"IT Republican", 
+		"post":"Web Developer", 
+		"img": "images/exp/it-republican.png", 
+		"link":"http://itrepublican.com/", 
+		"starts":"January 2016",
+		"ends":"May 2016"
+	},
+	{ 
+		"name":"Background Check", 
+		"post":"Web Developer", 
+		"img": "images/exp/bcg.png", 
+		"link":"http://backcheckgroup.com/", 
+		"starts":"May 2016",
+		"ends": "January 2017"
+	},
+	{ 
+		"name":"Digitonics Lab", 
+		"post":"Front End Developer", 
+		"img": "images/exp/digitonics-lab.png", 
+		"link":"http://backcheckgroup.com/", 
+		"starts":"Feburary 2016",
+		"ends": "Working"
+	}
+]

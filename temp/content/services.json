@@ -1,0 +1,32 @@
+[
+	{
+		"type": "Web Design",
+		"icon": "fa fa-laptop",
+		"desc": "Deeply selected thoughtful designs for the businesses. Perfect Web Designs that artistically attractive to raise the businesses to innovative positions."
+	},
+	{
+		"type": "Web Development",
+		"icon": "fa fa-code",
+		"desc": "Starting with concept, plan and execution according to design. Quality code and fully secure, more user-friendly to make your audience to stay."
+	},
+	{
+		"type": "WEBSITE MAINTENANCE",
+		"icon": "fa fa-cogs",
+		"desc": "Variation and adding something in the existing website such as images content design ordering of the sections for the requirement on the time."
+	},
+	{
+		"type": "WORDPRESS WEBSITE",
+		"icon": "fa fa-wordpress",
+		"desc": "Providing services for Building website or blogging base on WordPress the most common CMS I offer support and services for the business when needed."
+	},
+	{
+		"type": "BUGS REMOVING ",
+		"icon": "fa fa-bug",
+		"desc": "Website loading slow images are broken clicking tabs are not working or something like that irritating you and your clients then contact me for solutions."
+	},
+	{
+		"type": "CAREER PROFILE",
+		"icon": "fa fa-user",
+		"desc": "A professional web profile is very useful to present yourself strong and gives you more career opportunities according to your field or interest."
+	}	
+]

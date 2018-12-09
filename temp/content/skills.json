@@ -1,0 +1,24 @@
+[
+	{
+		"type": "Languages",
+		"icon": "fa fa-code",
+		"items": [
+			{"name":"HTML"},
+			{"name":"CSS"},
+			{"name":"Javascript"},
+			{"name":"PHP"},
+			{"name":"MYSQL Database"}
+		]
+	},
+	{
+		"type": "Open Sources",
+		"icon": "fa fa-cloud-download",
+		"items": [
+			{"name":"Bootstrap"},
+			{"name":"jQuery"},
+			{"name":"Wordpress"},
+			{"name":"AngularJS"},
+			{"name":"CodeIgniter"}
+		]
+	}
+]

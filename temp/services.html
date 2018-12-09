@@ -1,0 +1,20 @@
+<div class="content" id="service" ng-controller="servicesCtrl">
+ <div class="container">
+    <div class="feature">
+        <h2>Providing Services</h2>
+        <h4>Providing Services in the field of IT and Web Development</h4>
+        <hr>
+    </div>
+    <div style="padding: 15px 0;"></div>
+	<div class="row">
+		<div class="col-md-4 text-left" ng-repeat="service in services">
+			<div class="item text-center">
+				<h2><i class="{{service.icon}}"></i></h2>
+				<h2>{{ service.type }}</h2>
+				<p>{{service.desc}}</p>
+				<a href="#" class="btn btn-success" data-toggle="modal" data-q="{{service.type}}" data-target="#myModal">Read More</a>
+			</div>
+		</div>
+	</div>
+ </div> <!-- container -->
+</div><!--content-->

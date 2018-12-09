@@ -1,0 +1,21 @@
+<div class="content" id="skill" ng-controller="skillsCtrl">
+ <div class="container">
+    <div class="feature">
+        <h2>Working Technology</h2>
+        <h4>Some of my skills and work there on</h4>
+        <hr>
+    </div>
+	<div class="row">
+	<div class="col-md-2"></div>
+		<div class="col-md-4 text-left" ng-repeat="skill in skills">
+			<div class="item">
+				<h2><i class="{{skill.icon}}"></i></h2>
+				<h2>{{ skill.type }}</h2>
+				<ul>
+					<li ng-repeat="item in skill.items">{{item.name}}</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+ </div> <!-- container -->
+</div><!--content-->

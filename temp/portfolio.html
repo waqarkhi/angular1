@@ -1,0 +1,42 @@
+<div class="avail" id="portfolio" ng-controller="portfolioCtrl">
+ <div class="container">
+  <div class="feature">
+        <h2>Portfolios</h2>
+        <h4>Some of recently Developed Websites</h4>
+        <hr>
+    </div>
+      <div class="row" id="Grid" style="margin-top:37px;">
+<div class="text-center">
+<button class="btn btn-default btn-success" type="button" data-filter="all">All</button>
+<button class="btn btn-default" type="button" data-filter="wp">Wordpress</button>
+<button class="btn btn-default" type="button" data-filter="custome">Custome</button>
+<button class="btn btn-default" type="button" data-filter="e-commerce">E-Commerce</button>
+</div>
+<div>
+  
+            <div class="col-md-4 show-from-right text-center {{project.class}}" ng-repeat="project in portfolio">
+              <div class="single-project">
+                <div class="flip-box">
+                  <div class="front-side">
+                    <div class="box">
+                      <a href="#">
+                        <img ng-src="{{project.img}}" alt="{{project.name}}">
+                      </a>
+                    </div>
+                  </div>
+                  <div class="back-side">
+                    <div class="det-box">
+                      <h2>{{project.name}}</h2>
+                      <p>{{project.techuse}}</p>
+                      <p>
+                        <a class="btn btn-small btn-success" href="{{project.link}}" target="_blank"><i class="fa fa-external-link"></i> Click to Visit</a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>               
+            </div>
+</div>
+     </div>
+ </div>	 
+</div><!--avail-->

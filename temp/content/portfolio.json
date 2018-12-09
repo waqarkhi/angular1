@@ -1,0 +1,44 @@
+[
+	{ 
+		"class":"all e-commerce wp",
+		"name":"99 Medical Books", 
+		"img": "images/project/99-medicalbooks.jpg", 
+		"link":"https://99medicalbooks.com/", 
+		"techuse":"Wordpress CMS"
+	},
+	{ 
+		"class":"all custome",
+		"name":"Ride On", 
+		"img":"images/project/ride-on.jpg", 
+		"link":"http://wixe.byethost8.com/demos/drive-app/", 
+		"techuse":"Custome Designing and Development" 
+	},
+	{ 
+		"class":"all wp",
+		"name":"logocross", 
+		"img":"images/project/logo-cross.jpg", 
+		"link":"https://logocross.com/", 
+		"techuse":"Wordpress CMS" 
+	},
+	{ 
+		"class":"all custome",
+		"name":"Aerial", 
+		"img":"http://wixe.byethost8.com/web-templates/0001-aerial/mock-up.jpg", 
+		"link":"http://wixe.byethost8.com/web-templates/0001-aerial/", 
+		"techuse":"Custome Designing and Development" 
+	},
+	{
+		"class":"all custome",
+		"name":"Top Fit Windows",
+		"img":"images/project/topfit-windows.jpg",
+		"link":"http://demo-logoscientist.com/topfit-windows/",
+		"techuse":"Custome Designing and Development"
+	},
+	{
+		"class":"all custome",
+		"name":"Agency Insurance",
+		"img":"http://wixe.byethost8.com/web-templates/0002-agency-insurance/mock-up.jpg",
+		"link":"http://wixe.byethost8.com/web-templates/0002-agency-insurance/",
+		"techuse":"Custome Designing and Development"
+	}
+]

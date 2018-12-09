@@ -1,0 +1,94 @@
+[
+	{
+		"title": "Small",
+		"price": "$300",
+		"items": [
+			{"name":"2 main sections styling"},
+			{"name":"5 Updates as you required"},
+			{"name":"2 New images Design"},
+			{"name":"Upto 5 Bugs fixing"},
+			{"name":"100% Setisfaction Garentied"}
+		]
+	},
+	{
+		"title": "Medium",
+		"price": "$600",
+		"items": [
+			{"name":"4 sections styling"},
+			{"name":"10 Updates as you required"},
+			{"name":"4 New images Design"},
+			{"name":"Upto 10 Bugs fixing"},
+			{"name":"100% Setisfaction Garentied"}
+		]
+	},
+	{
+		"title": "Large",
+		"price": "$900",
+		"items": [
+			{"name":"Perfect Home page Styling"},
+			{"name":"15 Updates as you required"},
+			{"name":"5 New images Design"},
+			{"name":"Upto 20 Bugs fixing"},
+			{"name":"100% Setisfaction Garentied"}
+		]
+	},
+	{
+		"title": "Start Up",
+		"price": "$200",
+		"realPrice": "$500",
+		"items": [
+			{"name":"5 pages"},
+			{"name":"jQuery slider"},
+			{"name":"Mobile Friendly"},
+			{"name":"contact/query form"},
+			{"name":"Latest Technologies HTML5 and CSS3"},
+			{"name":"Unique and User Experienced Design"},
+			{"name":"Free Necessary Stationary "},
+			{"name":"Free 1year domain registration"},
+			{"name":"10 revisions"},
+			{"name":"Complete Development"},
+			{"name":"100% Satisfaction"},
+			{"name":"100% Money Back Guarantee"}			
+		]
+	},
+	{
+		"title": "Inspiration",
+		"price": "$200",
+		"realPrice": "$500",
+		"items": [
+			{"name":"One page "},
+			{"name":"jQuery animation"},
+			{"name":"parallax effects"},
+			{"name":"jQuery Slider"},
+			{"name":"Contact / Query form"},
+			{"name":"Latest Technology HTML5 and CSS3"},
+			{"name":"Unique and User Experienced Design"},
+			{"name":"Mobile friendly "},
+			{"name":"10 Revisions"},
+			{"name":"Complete development"},
+			{"name":"100% Satisfaction"},
+			{"name":"100% Money Back Guarantee"}
+		]
+	},
+	{
+		"title": "Enterprise",
+		"price": "$500",
+		"realPrice": "$900",
+		"items": [
+			{"name":"10 pages"},
+			{"name":"3 jQuery sliders"},
+			{"name":"Mobile friendly"},
+			{"name":"Contact/query form"},
+			{"name":"Free Necessary Stationary "},
+			{"name":"Unique and User Experienced Design"},
+			{"name":"Latest Technologies HTML5 and CSS3"},
+			{"name":"Free 1year domain registration"},
+			{"name":"20 revisions"},
+			{"name":"Complete development"},
+			{"name":"100% Satisfaction "},
+			{"name":"100% Money Back Guarantee"}
+		]
+	}
+
+]
+

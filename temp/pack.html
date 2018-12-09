@@ -1,0 +1,46 @@
+<div class="content" id="pack" ng-controller="packCtrl">
+<div class="container">
+<div class="feature" style="padding-bottom:40px;"> 
+        <h2>Pricing & Packages</h2>
+        <h4>Pricing packages for webdesign and programming.</h4>
+        <hr>
+   </div>
+<ul class="nav nav-pills text-center">
+  <li class="active"><a data-toggle="pill" class="btn btn-default" href="#New-website">Design and Development</a></li>
+  <li><a data-toggle="pill" class="btn btn-default" href="#website-improvement">Improve</a></li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane fade " id="website-improvement">
+   <div class="row no-padding no-margin">
+     <div class="col-md-4 text-center" ng-repeat="pack in packs.slice(0, 3)">
+      <div class="item">
+        <h2>{{ pack.title }}</h2>
+        <h2>{{pack.price}} </h2>
+        <ul>
+          <li ng-repeat="item in pack.items">{{item.name}}</li>
+        </ul>
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-q="{{pack.title}}" data-target="#myModal">GET QOUTE</button>
+      </div>
+    </div>
+    </div>
+</div>
+<div class="tab-pane fade in active" id="New-website">
+   <div class="row no-padding no-margin">
+     <div class="col-md-4 text-center" ng-repeat="pack in packs.slice(3, 6)">
+      <div class="item">
+        <h2>{{pack.price}} - <small><del>{{pack.realPrice}}</del></small></h2>
+        <h2>{{ pack.title }}</h2>
+        <ul>
+          <li ng-repeat="item in pack.items">{{item.name}}</li>
+        </ul>
+        <button type="button" class="btn btn-theme btn-lg" data-toggle="modal" data-q="{{pack.title}}" data-target="#myModal">GET QOUTE</button>
+      </div>
+    </div>
+    </div>
+</div>
+</div>
+ </div><!--container--> 
+</div>
+<script type="text/javascript">
+  
+</script>
